@@ -1,0 +1,37 @@
+<html dir='ltl'>
+  <head>
+    <title>Paragraph Examples</title>
+  </head>
+ 
+  <body>
+    <h3 title='HelloHTML'>TitledHeadingTag
+   Example</h3>
+<b>
+    <p>Here is a first paragraph of text</p></b>
+<strike>
+    <p>Here is a second paragraph of text</p></strike>
+    <br>i want to break</br>
+<i>
+    <p>Here is a third paragraph of text</p></i>
+    <hr />
+<tt>
+    <p>this text is not int the center</p>
+</tt>
+    <center>
+<u>
+    <sup> <p>here text is in the center</p></sup></u>
+    </center>
+    <pre>
+      <sub>function testfunction(strTest)[
+       alert(strTest)</sub>
+      ]
+    </pre>
+    <p valign="left">This is left alignment</p>
+    <p valign="center">This is center alignment</p>
+    <p valign="right">This is right alignment</p>
+   
+  </body>
+</html>
+
+
+
