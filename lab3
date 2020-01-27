@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>this document is title</title>
+</head>
+<body>
+  <div id="menu"align=middle">
+   <a herf="/home/exam1">HOME</a>|
+   <a herf="/home/exam1">CONTACT</a>|
+   <a herf="/home/exam1">ABOUT</a>
+  </div>
+  <p><em>document content goes here...</em></p>
+  <p><mark>hello hello hello</mark></p>
+  <p>wow!!!!!!!!</p>
+  <p>this is our IT lab</p>
+  <bdo dir="rtl">
+  this is sameera
+  </bdo>
+</body>
+</html>
+
